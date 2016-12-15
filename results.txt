@@ -1,0 +1,4 @@
+Product name: CD-Rom		MainFactory: LG		Price: 500		Product number: ABC111		Weight: 200 
+Product name: laser Mouse	MainFactory: HP		Price: 300		Product number: ABC222		Weight: 100 
+Product name: Acer-Labtop	MainFactory: Acer	Price: 5500		Product number: ABC333		Weight: 2000 
+Product name: Samsung		MainFactory: Samsung	Price: 3125.0 KR 	Product number: Labtop ABC	Medium: Labtop
